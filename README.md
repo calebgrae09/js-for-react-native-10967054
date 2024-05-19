@@ -11,6 +11,3 @@
 
 ### Task 3: Create User Profiles
 - Created a function `createUserProfiles` that takes an array of names and modified names and returns an array of objects with `originalName`, `modifiedName`, and auto-incremented `id`.
-
-### Task 4: README
-- This file explains the tasks completed along with my student ID.
